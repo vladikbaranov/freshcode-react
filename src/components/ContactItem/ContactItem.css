@@ -1,0 +1,27 @@
+.contact-item { 
+  margin: 12px 5px; 
+  font-size: 28px; 
+  padding: 5px; 
+  background-color: #f9fcf5; 
+  border: 2px solid #036328; 
+  border-radius: 5px; 
+  height: 45px; 
+} 
+ 
+.contact-name { 
+  padding: 0; 
+  margin: 5px 0; 
+  display: inline-block; 
+} 
+ 
+.btn-delete { 
+  float: right; 
+  margin-top: 3px; 
+  margin-right: 10px; 
+  border: 1px solid #036328; 
+  padding: 2px; 
+  text-align: center; 
+  width: 30px; 
+  height: 30px; 
+  cursor: pointer; 
+}

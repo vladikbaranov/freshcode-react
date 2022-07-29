@@ -1,0 +1,22 @@
+body{ 
+  background-color:#cafcae; 
+  color: #036328; 
+} 
+ 
+.container{ 
+  width: 900px; 
+  background-color: #aefcfc; 
+  margin: 40px auto 0; 
+  border: 2px solid #62a3a3; 
+  border-radius: 5px; 
+  height: 600px; 
+} 
+ 
+.title{ 
+  text-align: center; 
+  font-size: 40px; 
+} 
+ 
+.wrap{ 
+  display: flex; 
+}
